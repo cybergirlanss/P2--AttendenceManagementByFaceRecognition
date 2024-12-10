@@ -32,10 +32,11 @@ This project is an **Attendance Management System** using **Face Recognition** f
 
 ## Requirements
 
-* Python 3.x
-* OpenCV
-* face_recognition
-* Firebase Admin SDK
+- **Python 3.x**
+- **OpenCV**
+- **face_recognition**
+- **Firebase Admin SDK**
+
 
 ## License
 
@@ -53,10 +54,10 @@ This project does not have a formal license. Use it at your own discretion.
 
 The following Python libraries are required for the project:
 
-* numpy – Numerical operations, required for image processing.
-* opencv-python – OpenCV library for computer vision tasks, used for capturing video and processing images.
-* face-recognition – Face recognition library, used for detecting and recognizing faces.
-* firebase-admin – Firebase SDK for interacting with Firebase Realtime Database.
+- **numpy** – Numerical operations, required for image processing.
+- **opencv-python** – OpenCV library for computer vision tasks, used for capturing video and processing images.
+- **face-recognition** – Face recognition library, used for detecting and recognizing faces.
+- **firebase-admin** – Firebase SDK for interacting with Firebase Realtime Database.
 
 
 ## Directory Structure
@@ -86,8 +87,8 @@ FaceRecognitionRealTimeDatabase/
 
 ## Acknowledgments
 
-* OpenCV: Used for real-time face recognition and camera operations.
-* face_recognition: Used for face detection and recognition.
-* Firebase: Used to store and manage attendance data.
-* Python Community: For providing open-source libraries that helped in developing this system.
+ - **OpenCV**: Used for real-time face recognition and camera operations.
+- **face_recognition**: Used for face detection and recognition.
+- **Firebase**: Used to store and manage attendance data.
+- **Python** Community: For providing open-source libraries that helped in developing this system.
 
