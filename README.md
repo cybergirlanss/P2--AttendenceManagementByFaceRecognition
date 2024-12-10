@@ -42,10 +42,6 @@ This project is an **Attendance Management System** using **Face Recognition** f
 
 This project does not have a formal license. Use it at your own discretion.
 
-### Next Steps:
-- Copy and paste this updated version into your `README.md` file in PyCharm.
-- Follow the same steps to commit and push the changes to GitHub.
-
 ## Dependencies
 
 The following Python libraries are required for the project:
