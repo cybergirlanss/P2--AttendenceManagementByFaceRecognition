@@ -42,10 +42,6 @@ This project is an **Attendance Management System** using **Face Recognition** f
 
 This project does not have a formal license. Use it at your own discretion.
 
-### Explanation of Changes:
-- **Bash commands**: All commands like `git clone`, `pip install`, and `python main.py` are now inside code blocks (using triple backticks).
-- **License**: Since you didn’t select a license on GitHub, the **License** section now says: "This project does not have a formal license."
-
 ### Next Steps:
 - Copy and paste this updated version into your `README.md` file in PyCharm.
 - Follow the same steps to commit and push the changes to GitHub.
