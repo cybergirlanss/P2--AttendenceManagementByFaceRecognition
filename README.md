@@ -82,5 +82,5 @@ FaceRecognitionRealTimeDatabase/
  - **OpenCV**: Used for real-time face recognition and camera operations.
 - **face_recognition**: Used for face detection and recognition.
 - **Firebase**: Used to store and manage attendance data.
-- **Python** Community: For providing open-source libraries that helped in developing this system.
+- **Python Community**: For providing open-source libraries that helped in developing this system.
 
