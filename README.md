@@ -59,18 +59,29 @@ The following Python libraries are required for the project:
 * firebase-admin – Firebase SDK for interacting with Firebase Realtime Database.
 ## Directory Structure
 
-Here's an overview of the project's directory structure:
+## Directory Structure
+The project has the following directory structure:
 
-`FaceRecognitionRealTimeDatabase/
-├── Images/                    # Folder for storing student images
-├── Resources/                 # Additional resources like configurations
-├── myenv/                     # Virtual environment for dependencies
-├── AddDataToDatabase.py       # Script for adding student data to the database
-├── EncodeGenerator.py         # Script to generate face encodings
-├── main.py                    # Main script to run the attendance system
-├── serviceAccountKey.json     # Firebase credentials file
-├── requirements.txt           # List of dependencies
-└── README.md                  # This file`
+```plaintext
+FaceRecognitionRealTimeDatabase/
+├── Images/
+│   ├── image1.jpg
+│   ├── image2.jpg
+│   └── ...
+├── Resources/
+│   ├── background.png
+│   ├── mode1.png
+│   ├── mode2.png
+│   └── ...
+├── myenv/               # Virtual environment
+├── serviceAccountKey.json
+├── EncodeFile.p
+├── EncodeGenerator.py
+├── AddDataToDatabase.py
+├── main.py
+├── test.py
+└── README.md
+
 
 ## Acknowledgments
 
