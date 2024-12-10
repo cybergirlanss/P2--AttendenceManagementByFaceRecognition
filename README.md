@@ -57,7 +57,7 @@ The following Python libraries are required for the project:
 * opencv-python – OpenCV library for computer vision tasks, used for capturing video and processing images.
 * face-recognition – Face recognition library, used for detecting and recognizing faces.
 * firebase-admin – Firebase SDK for interacting with Firebase Realtime Database.
-## Directory Structure
+
 
 ## Directory Structure
 The project has the following directory structure:
@@ -82,6 +82,7 @@ FaceRecognitionRealTimeDatabase/
 ├── test.py
 └── README.md
 
+```
 
 ## Acknowledgments
 
